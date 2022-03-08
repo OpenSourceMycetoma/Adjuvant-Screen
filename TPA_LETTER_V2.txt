@@ -1,4 +1,4 @@
-﻿To whom it may concern, We are a collective of researchers working in an open-source matter to discover potential pharmacological interventions for a neglected tropical disease known as eumycetoma. 
+﻿To whom it may concern, We are a consortium of researchers working in an open-source matter to discover potential pharmacological interventions for a painful and disfiguring neglected tropical disease known as eumycetoma. 
 
 One of our current subprojects is to identify natural and semi-synthetic compounds (including aroma-compounds such as cinnamyl derivatives) as potential adjuvants for the treatment of this neglected condition. 
 
@@ -18,13 +18,13 @@ Bisabolene
 Indolarome
 Hexadecanolide
 
-Anywhere from 250 milligrams to 1 gram of the powdered products and 1 to 2 ml of the liquid products are suitable for the assay work.
+Anywhere from 100 milligrams to 1 gram of the powdered products and 1/2 to 2 milliliters of the liquid products are suitable for the work.
 
 We request that these products not contain any diluents or solvents as that may interfere with the screening process. 
 
 We are reaching out to your company to see if you would be able to provide and ship the molecules on the above list Pro bono publico to our main research facility in the city of Rotterdam in the Netherlands:
 
-All data will be public accesss and should these compounds be used in any research paper MycetOS will thank your company for the generous gift in the research paper. 
+All data will be public accesss and should these compounds be used in any research paper the MycetOS project will thank your company for the generous gift in the research paper. 
 
 The shipping address of our main research facility is as follows:
 
@@ -41,5 +41,5 @@ The Netherlands
 You may learn more about our collective at the link below: 
 https://dndi.org/research-development/portfolio/mycetos/
  
-Sincerely, The MycetOS collective
+Sincerely, Anthony of the MycetOS consortium
 
