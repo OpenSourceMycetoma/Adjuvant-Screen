@@ -2,5 +2,5 @@ name,mw,smiles,enantiopure
 Calone,178.187,O=C1COc2c(OC1)cc(cc2)C,yes
 Cascalone,206.241,CC(C)C1=CC2=C(C=C1)OCC(=O)CO2,yes
 Civetone,250.426,O=C1CCCCCCC/C=C\CCCCCCC1,yes
-Cyclopentadecanone,224.38,C1CCCCCCCC(=O)CCCCCC1,yes
+Cyclopentadecanone,224.382,C1CCCCCCCC(=O)CCCCCC1,yes 
 Doremox,176.258,CC1CCOC(C1)C2=CC=CC=C2,no
