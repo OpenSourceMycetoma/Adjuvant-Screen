@@ -1,6 +1,6 @@
 ﻿To whom it may concern, We are a consortium of researchers working in an open-source matter to discover potential pharmacological interventions for a painful and disfiguring neglected tropical disease known as eumycetoma. 
 
-One of our current subprojects is to identify natural and semi-synthetic compounds (including aroma compounds such as cinnamyl derivatives and terpenoids) as potential adjuvants for the treatment of this neglected condition. 
+One of our current subprojects is to identify natural and semi-synthetic compounds (including fragrance components such as cinnamyl derivatives and terpenoids) as potential adjuvants for the treatment of this neglected condition. 
 
 Our group is interested in procuring samples of the compounds listed below for use in an in-vitro assay to evaluate efficacy against eumycetoma causing fungi:
 
