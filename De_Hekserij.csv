@@ -1,6 +1,6 @@
-name,mw,smiles
-Calone,178.187,O=C1COc2c(OC1)cc(cc2)C
-Zenolide,256.342,C1(OCCOC(CCCCCCCCCC1)=O)=O
-Scentenal,194.273,COC1C2C3CC(CC3C(C1)C2)C=O
-Cedroxyde,220.355,CC12C(C\C=C/CC\C=C/CCC2O1)(C)C
-Hexyl_cinnamaldehyde,216.319,O=C\C(=C\c1ccccc1)CCCCCC
+name,mw,smiles,made_by
+Calone,178.187,O=C1COc2c(OC1)cc(cc2)C,Firmenich
+Zenolide,256.342,C1(OCCOC(CCCCCCCCCC1)=O)=O,IFF
+Scentenal,194.273,COC1C2C3CC(CC3C(C1)C2)C=O,Firmenich
+Cedroxyde,220.355,CC12C(C\C=C/CC\C=C/CCC2O1)(C)C,Firmenich
+Hexyl_cinnamaldehyde,216.319,O=C\C(=C\c1ccccc1)CCCCCC,Generic 
